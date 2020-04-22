@@ -1,0 +1,47 @@
+*{
+  font-weight: bold;
+  font-family: Helvetica Narrow, sans-serif;
+  color: #495057;
+}
+
+header {
+  background-color: rgb(240, 239, 239);
+  margin-bottom: 1rem;
+  padding: 1rem 0rem 1rem 0rem;
+}
+
+ footer > div {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left:0;
+  padding: 1rem;
+  text-align: center;
+}
+
+.balance {
+  font-size: 14px;
+  color: rgb(153, 152, 152);
+}
+
+.header{
+  font-size: 40px;
+  text-align: center;
+}
+
+.incomeColor {
+  color: #28a745;
+}
+
+.spendingColor {
+  color: #dc3545;
+}
+
+.date {
+ font-size: 12px;
+}
+
+.rowSize {
+  font-size: 20px;
+}
+
